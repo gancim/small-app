@@ -1,0 +1,19 @@
+import org.junit.Test;
+
+import com.mg.small.obj.NumberPrevision;
+
+public class NumberPrevisionTest {
+
+	@Test
+	public void number() {
+		NumberPrevision np = new NumberPrevision();
+		boolean isNumber = true;
+		try{
+			Integer.parseInt("3") == 3
+		} catch(NumberFormatException e) {
+			isNumber = false;
+		}
+		assert(isNumber);
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.mg.small.obj;
+
+public class NumberPrevision implements Prevision{
+
+	public String getPrevision() {
+		// TODO Auto-generated method stub
+		return Math.random() * 10;
+	}
+	
+	
+}
