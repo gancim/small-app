@@ -408,3 +408,12 @@
 2018-03-26 16:11:24,918 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-03-26 16:11:24,920 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-03-26 16:11:24,920 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-26 16:26:40,584 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-26 16:26:40,585 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-26 16:26:40,585 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-26 16:26:40,586 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-26 16:26:47,349 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: small-app:small-app:1 @ /Users/gancim/Works/git/small-app/small-app/pom.xml.
+2018-03-26 16:26:47,657 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-26 16:26:47,660 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-26 16:26:47,663 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-26 16:26:47,663 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
